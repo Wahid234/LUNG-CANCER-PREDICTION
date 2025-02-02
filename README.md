@@ -24,7 +24,7 @@ pip install numpy pandas scikit-learn matplotlib seaborn tensorflow keras
 5. Evaluate model performance and make predictions.
 
 ## How to Run
-Open the Jupyter Notebook and execute the cells step by step to preprocess the data, train the model, and evaluate results.
+Open the Colab Notebook and execute the cells step by step to preprocess the data, train the model, and evaluate results.
 
 ## Results
 The model's performance is assessed using metrics like accuracy, precision, recall, and confusion matrix.
